@@ -1,0 +1,176 @@
+Dataset,Algorithm,Dataset_Type,ARI,Silhouette
+Balance Scale,Agglo (complete),other,0.1222,0.169
+Balance Scale,Agglo (ward),other,0.1222,0.169
+Balance Scale,DIANA,other,-0.0057,-0.0065
+Balance Scale,Density-Based,other,0.1381,0.1532
+Balance Scale,Divisive GMM,other,0.0879,0.1595
+Balance Scale,Divisive K-Means,other,0.1381,0.1532
+Balance Scale,Divisive Ward,other,0.172,0.169
+Balance Scale,Novel Divisive (Order-Based),other,0.209,0.1411
+Balance Scale,Novel Divisive (Proximity-Based),other,0.209,0.1411
+Balloons,Agglo (complete),other,0.0803,0.1754
+Balloons,Agglo (ward),other,0.0803,0.1754
+Balloons,DIANA,other,-0.05,-0.0562
+Balloons,Density-Based,other,-0.0535,0.1105
+Balloons,Divisive GMM,other,0.0041,0.0882
+Balloons,Divisive K-Means,other,-0.0535,0.1105
+Balloons,Divisive Ward,other,0.0803,0.1754
+Balloons,Novel Divisive (Order-Based),other,0.2033,0.0882
+Balloons,Novel Divisive (Proximity-Based),other,0.2033,0.0882
+Banknote Authentication,Agglo (average),other,0.0795,0.36
+Banknote Authentication,Agglo (complete),other,0.072,0.3845
+Banknote Authentication,Agglo (single),other,-0.0003,0.0595
+Banknote Authentication,Agglo (ward),other,0.0348,0.313
+Banknote Authentication,DIANA,other,-0.0007,-0.0012
+Banknote Authentication,Density-Based,other,0.0129,0.3291
+Banknote Authentication,Divisive GMM,other,0.0031,0.3021
+Banknote Authentication,Divisive K-Means,other,0.0129,0.3291
+Banknote Authentication,Divisive Ward,other,0.0348,0.313
+Banknote Authentication,Novel Divisive (Order-Based),other,0.1818,0.2709
+Banknote Authentication,Novel Divisive (Proximity-Based),other,0.0013,0.4106
+Car Evaluation,Agglo (complete),other,0.0198,0.0504
+Car Evaluation,Agglo (ward),other,-0.0058,0.0654
+Car Evaluation,DIANA,other,0.0097,-0.0063
+Car Evaluation,Density-Based,other,0.001,0.119
+Car Evaluation,Divisive GMM,other,0.0024,0.1078
+Car Evaluation,Divisive K-Means,other,0.001,0.119
+Car Evaluation,Divisive Ward,other,0.0174,0.0685
+Car Evaluation,Novel Divisive (Order-Based),other,0.0262,0.0775
+Car Evaluation,Novel Divisive (Proximity-Based),other,0.0262,0.0775
+Census Income,Agglo (complete),other,0.0366,0.3141
+Census Income,Agglo (ward),other,0.0004,0.2114
+Census Income,DIANA,other,-0.0019,-0.0021
+Census Income,Density-Based,other,0.045,0.1496
+Census Income,Divisive GMM,other,0.0079,0.1397
+Census Income,Divisive K-Means,other,0.045,0.1496
+Census Income,Divisive Ward,other,0.0004,0.2114
+Census Income,Novel Divisive (Order-Based),other,0.0332,0.068
+Census Income,Novel Divisive (Proximity-Based),other,0.0332,0.068
+Chess (King-Rook vs. King-Pawn),Agglo (complete),other,0.0001,0.8264
+Chess (King-Rook vs. King-Pawn),Agglo (ward),other,0.004,0.1235
+Chess (King-Rook vs. King-Pawn),DIANA,other,-0.0004,-0.0003
+Chess (King-Rook vs. King-Pawn),Density-Based,other,-0.0001,0.1151
+Chess (King-Rook vs. King-Pawn),Divisive GMM,other,0.0021,0.1201
+Chess (King-Rook vs. King-Pawn),Divisive K-Means,other,-0.0001,0.1151
+Chess (King-Rook vs. King-Pawn),Divisive Ward,other,0.004,0.1235
+Chess (King-Rook vs. King-Pawn),Novel Divisive (Order),other,0.0001,0.8264
+Chess (King-Rook vs. King-Pawn),Novel Divisive (Prox),other,0.0001,0.8264
+Connect-4,Agglo (complete),other,-0.0015,0.6801
+Connect-4,Agglo (ward),other,0.0038,0.0647
+Connect-4,DIANA,other,-0.005,-0.0026
+Connect-4,Density-Based,other,0.0019,0.0748
+Connect-4,Divisive GMM,other,-0.0156,0.0708
+Connect-4,Divisive K-Means,other,0.0019,0.0748
+Connect-4,Divisive Ward,other,0.0038,0.0647
+Connect-4,Novel Divisive (Order),other,0.0129,0.0454
+Connect-4,Novel Divisive (Prox),other,0.0129,0.0454
+Credit Approval,Agglo (complete),other,0.0022,0.632
+Credit Approval,Agglo (ward),other,0.0027,0.1618
+Credit Approval,DIANA,other,0.0,-0.003
+Credit Approval,Density-Based,other,0.0065,0.1764
+Credit Approval,Divisive GMM,other,0.2501,0.0933
+Credit Approval,Divisive K-Means,other,0.0065,0.1764
+Credit Approval,Divisive Ward,other,0.0027,0.1618
+Credit Approval,Novel Divisive (Order),other,0.003,0.5847
+Credit Approval,Novel Divisive (Prox),other,0.003,0.5847
+Default of Credit Card Clients,Agglo (complete),other,-0.0007,0.8114
+Default of Credit Card Clients,Agglo (ward),other,-0.0388,0.2443
+Default of Credit Card Clients,DIANA,other,0.0027,0.0005
+Default of Credit Card Clients,Density-Based,other,-0.0201,0.3479
+Default of Credit Card Clients,Divisive GMM,other,-0.0372,0.1177
+Default of Credit Card Clients,Divisive K-Means,other,-0.0201,0.3479
+Default of Credit Card Clients,Divisive Ward,other,-0.0388,0.2443
+Default of Credit Card Clients,Novel Divisive (Order),other,0.0036,0.6464
+Default of Credit Card Clients,Novel Divisive (Prox),other,0.0036,0.6464
+HTRU2,Agglo (complete),other,-0.0734,0.285
+HTRU2,Agglo (ward),other,0.5669,0.6772
+HTRU2,DIANA,other,-0.0025,-0.0012
+HTRU2,Density-Based,other,0.749,0.6352
+HTRU2,Divisive GMM,other,0.3881,0.4645
+HTRU2,Divisive K-Means,other,0.749,0.6352
+HTRU2,Divisive Ward,other,0.5669,0.6772
+HTRU2,Novel Divisive (Order),other,0.575,0.5359
+HTRU2,Novel Divisive (Prox),other,0.575,0.5359
+Heart Disease,Agglo (average),other,0.0833,0.1395
+Heart Disease,Agglo (complete),other,0.1573,0.0726
+Heart Disease,Agglo (single),other,0.0209,0.1382
+Heart Disease,Agglo (ward),other,0.0877,0.0873
+Heart Disease,DIANA,other,0.0055,-0.02
+Heart Disease,Density-Based,other,0.1788,0.1018
+Heart Disease,Divisive GMM,other,0.0797,0.0749
+Heart Disease,Divisive K-Means,other,0.1788,0.1018
+Heart Disease,Divisive Ward,other,0.0877,0.0873
+Heart Disease,Novel Divisive (Order),other,0.0613,0.0295
+Heart Disease,Novel Divisive (Prox),other,0.0125,0.2142
+Horse Colic,Agglo (complete),other,-0.0022,0.6709
+Horse Colic,Agglo (ward),other,0.0259,0.1323
+Horse Colic,DIANA,other,-0.0152,-0.0031
+Horse Colic,Density-Based,other,0.0458,0.1473
+Horse Colic,Divisive GMM,other,0.1561,0.0876
+Horse Colic,Divisive K-Means,other,0.0458,0.1473
+Horse Colic,Divisive Ward,other,0.0259,0.1323
+Horse Colic,Novel Divisive (Order),other,-0.0022,0.6709
+Horse Colic,Novel Divisive (Prox),other,-0.0022,0.6709
+Ionosphere,Agglo (complete),other,0.1145,0.2604
+Ionosphere,Agglo (ward),other,0.1775,0.2713
+Ionosphere,DIANA,other,-0.0059,0.0116
+Ionosphere,Density-Based,other,0.0182,-0.0179
+Ionosphere,Divisive GMM,other,0.3942,0.1766
+Ionosphere,Divisive K-Means,other,0.1679,0.2704
+Ionosphere,Divisive Ward,other,0.1775,0.2713
+Ionosphere,Novel Divisive (Order),other,0.117,0.2154
+Ionosphere,Novel Divisive (Prox),other,0.117,0.2154
+Japanese Credit Screening,Agglo (complete),other,0.0007,0.7414
+Japanese Credit Screening,Agglo (ward),other,0.0012,0.1381
+Japanese Credit Screening,DIANA,other,0.0015,-0.0096
+Japanese Credit Screening,Density-Based,other,0.0065,0.1572
+Japanese Credit Screening,Divisive GMM,other,0.0065,0.1572
+Japanese Credit Screening,Divisive K-Means,other,0.0065,0.1572
+Japanese Credit Screening,Divisive Ward,other,0.0012,0.1381
+Japanese Credit Screening,Novel Divisive (Order),other,0.003,0.583
+Japanese Credit Screening,Novel Divisive (Prox),other,0.003,0.583
+Online Shoppers Purchasing Intention Dataset,Agglo (complete),other,0.0134,0.6472
+Online Shoppers Purchasing Intention Dataset,Agglo (ward),other,0.1073,0.2468
+Online Shoppers Purchasing Intention Dataset,DIANA,other,-0.002,-0.0002
+Online Shoppers Purchasing Intention Dataset,Density-Based,other,0.1383,0.2491
+Online Shoppers Purchasing Intention Dataset,Divisive GMM,other,0.0324,0.1359
+Online Shoppers Purchasing Intention Dataset,Divisive K-Means,other,0.1383,0.2491
+Online Shoppers Purchasing Intention Dataset,Divisive Ward,other,0.1073,0.2468
+Online Shoppers Purchasing Intention Dataset,Novel Divisive (Order),other,0.2956,0.082
+Online Shoppers Purchasing Intention Dataset,Novel Divisive (Prox),other,0.2956,0.082
+Shuttle Landing Control,Agglo (complete),other,-0.0272,0.217
+Shuttle Landing Control,Agglo (ward),other,-0.0305,0.3052
+Shuttle Landing Control,DIANA,other,-0.0139,-0.133
+Shuttle Landing Control,Density-Based,other,0.0468,0.2025
+Shuttle Landing Control,Divisive GMM,other,-0.0618,0.1562
+Shuttle Landing Control,Divisive K-Means,other,-0.0305,0.3052
+Shuttle Landing Control,Divisive Ward,other,-0.0305,0.3052
+Shuttle Landing Control,Novel Divisive (Order),other,-0.0139,0.4099
+Shuttle Landing Control,Novel Divisive (Prox),other,-0.0139,0.4099
+Spambase,Agglo (complete),other,0.0005,0.8373
+Spambase,Agglo (ward),other,-0.0099,0.5667
+Spambase,DIANA,other,0.0,0.0
+Spambase,Density-Based,other,-0.0081,0.6008
+Spambase,Divisive GMM,other,0.2728,0.0481
+Spambase,Divisive K-Means,other,-0.0081,0.6008
+Spambase,Divisive Ward,other,-0.0099,0.5667
+Spambase,Novel Divisive (Order),other,0.0011,0.8094
+Spambase,Novel Divisive (Prox),other,0.0011,0.8094
+Statlog (German Credit Data),Agglo (complete),other,0.0625,0.118
+Statlog (German Credit Data),Agglo (ward),other,-0.0236,0.2696
+Statlog (German Credit Data),DIANA,other,-0.003,-0.0012
+Statlog (German Credit Data),Density-Based,other,-0.0018,0.0816
+Statlog (German Credit Data),Divisive GMM,other,-0.0134,0.1663
+Statlog (German Credit Data),Divisive K-Means,other,-0.0018,0.0816
+Statlog (German Credit Data),Divisive Ward,other,-0.0236,0.2696
+Statlog (German Credit Data),Novel Divisive (Order),other,0.0537,0.1551
+Statlog (German Credit Data),Novel Divisive (Prox),other,0.0537,0.1551
+Statlog (Shuttle),Agglo (complete),other,0.0067,0.7632
+Statlog (Shuttle),Agglo (ward),other,0.3156,0.3825
+Statlog (Shuttle),DIANA,other,0.0053,-0.1631
+Statlog (Shuttle),Density-Based,other,0.44,0.436
+Statlog (Shuttle),Divisive GMM,other,0.1396,0.0707
+Statlog (Shuttle),Divisive K-Means,other,0.44,0.436
+Statlog (Shuttle),Divisive Ward,other,0.1177,0.2011
+Statlog (Shuttle),Novel Divisive (Order),other,0.4403,0.5533
+Statlog (Shuttle),Novel Divisive (Prox),other,0.4403,0.5533

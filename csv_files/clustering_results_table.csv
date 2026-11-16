@@ -1,0 +1,122 @@
+Dataset,Algorithm,ARI,Silhouette
+Iris,Divisive K-Means,0.6101,0.4584
+Iris,Divisive Ward,0.6153,0.4455
+Iris,Divisive GMM,0.9039,0.3728
+Iris,DIANA,-0.0013,-0.0322
+Iris,density-based,0.6101,0.4584
+Iris,AgglomerativeClustering (ward),0.6153,0.4455
+Iris,AgglomerativeClustering (complete),0.5726,0.4488
+Iris,AgglomerativeClustering (average),0.5621,0.4795
+Iris,AgglomerativeClustering (single),0.5584,0.5029
+Iris,Novel divisive clustering algorithm(Order-Based),0.4361,0.3629
+Iris,Novel Divisive Clustering (Proximity-Based),0.1835,0.0353
+Heart Disease,Divisive K-Means,0.1788,0.1018
+Heart Disease,Divisive Ward,0.0877,0.0873
+Heart Disease,Divisive GMM,0.0797,0.0749
+Heart Disease,DIANA,0.0055,-0.02
+Heart Disease,density-based,0.1788,0.1018
+Heart Disease,AgglomerativeClustering (ward),0.0877,0.0873
+Heart Disease,AgglomerativeClustering (complete),0.1573,0.0726
+Heart Disease,AgglomerativeClustering (average),0.0833,0.1395
+Heart Disease,AgglomerativeClustering (single),0.0209,0.1382
+Heart Disease,Novel divisive clustering algorithm(Order-Based),0.0613,0.0295
+Heart Disease,Novel Divisive Clustering (Proximity-Based),0.0125,0.2142
+Adult,Divisive K-Means,0.045,0.1496
+Adult,Divisive Ward,0.0004,0.2114
+Adult,Divisive GMM,0.0079,0.1397
+Adult,DIANA,-0.0019,-0.0021
+Adult,density-based,0.045,0.1496
+Adult,AgglomerativeClustering (ward),0.0004,0.2114
+Adult,AgglomerativeClustering (complete),0.0366,0.3141
+Adult,AgglomerativeClustering (average),0.0101,0.3684
+Adult,AgglomerativeClustering (single),0.0097,0.3858
+Adult,Novel divisive clustering algorithm(Order-based),0.0208,0.0303
+Adult,Novel Divisive Clustering (Proximity-Based),0.0001,0.2342
+Bank Marketing,Divisive K-Means,0.0143,0.0918
+Bank Marketing,Divisive Ward,0.1568,0.2304
+Bank Marketing,Divisive GMM,0.0161,0.0919
+Bank Marketing,DIANA,-0.003,-0.0004
+Bank Marketing,density-based,0.0143,0.0918
+Bank Marketing,AgglomerativeClustering (ward),0.1568,0.2304
+Bank Marketing,AgglomerativeClustering (complete),0.0039,0.6943
+Bank Marketing,AgglomerativeClustering (average),-0.0009,0.7111
+Bank Marketing,AgglomerativeClustering (single),-0.0009,0.7111
+Bank Marketing,Novel divisive clustering algorithm(Order-Based),0.0067,0.0438
+Bank Marketing,Novel Divisive Clustering (Proximity-Based),0.0039,0.6425
+Banknote Authentication,Divisive K-Means,0.0129,0.3291
+Banknote Authentication,Divisive Ward,0.0348,0.313
+Banknote Authentication,Divisive GMM,0.0031,0.3021
+Banknote Authentication,DIANA,-0.0007,-0.0012
+Banknote Authentication,density-based,0.0129,0.3291
+Banknote Authentication,AgglomerativeClustering (ward),0.0348,0.313
+Banknote Authentication,AgglomerativeClustering (complete),0.072,0.3845
+Banknote Authentication,AgglomerativeClustering (average),0.0795,0.36
+Banknote Authentication,AgglomerativeClustering (single),-0.0003,0.0595
+Banknote Authentication,Novel divisive clustering algorithm(Order-Based),0.1818,0.2709
+Banknote Authentication,Novel Divisive Clustering (Proximity-Based),0.0013,0.4106
+HCV data,Divisive K-Means,0.053,0.122
+HCV data,Divisive Ward,0.1059,0.1224
+HCV data,Divisive GMM,0.0909,0.0148
+HCV data,DIANA,0.1342,0.0334
+HCV data,density-based,0.053,0.122
+HCV data,AgglomerativeClustering (ward),0.1161,0.1629
+HCV data,AgglomerativeClustering (complete),0.2429,0.6134
+HCV data,AgglomerativeClustering (average),0.1272,0.6589
+HCV data,AgglomerativeClustering (single),0.0922,0.6203
+HCV data,Novel divisive clustering algorithm(Order-Based),-0.0055,-0.0393
+HCV data,Novel Divisive Clustering (Proximity-Based),0.1024,0.4958
+Blood Transfusion Service Center,Divisive K-Means,0.0527,0.4356
+Blood Transfusion Service Center,Divisive Ward,0.0286,0.3861
+Blood Transfusion Service Center,Divisive GMM,-0.048,0.1644
+Blood Transfusion Service Center,DIANA,0.0079,-0.0056
+Blood Transfusion Service Center,density-based,0.0527,0.4356
+Blood Transfusion Service Center,AgglomerativeClustering (ward),0.0286,0.3861
+Blood Transfusion Service Center,AgglomerativeClustering (complete),0.0311,0.7506
+Blood Transfusion Service Center,AgglomerativeClustering (average),0.0311,0.7506
+Blood Transfusion Service Center,AgglomerativeClustering (single),-0.0036,0.7202
+Blood Transfusion Service Center,Novel divisive clustering algorithm(Order-Based),0.0672,0.2552
+Blood Transfusion Service Center,Novel Divisive Clustering (Proximity-Based),0.0101,0.611
+Wholesale customers,Divisive K-Means,-0.027,0.3996
+Wholesale customers,Divisive Ward,-0.0127,0.3671
+Wholesale customers,Divisive GMM,-0.0157,0.3332
+Wholesale customers,DIANA,-0.0207,-0.0144
+Wholesale customers,density-based,-0.027,0.3996
+Wholesale customers,AgglomerativeClustering (ward),-0.0071,0.4071
+Wholesale customers,AgglomerativeClustering (complete),-0.0071,0.7359
+Wholesale customers,AgglomerativeClustering (average),-0.0071,0.7359
+Wholesale customers,AgglomerativeClustering (single),0.0059,0.7693
+Wholesale customers,Novel divisive clustering algorithm(Order-Based),-0.0027,0.1239
+Wholesale customers,Novel Divisive Clustering (Proximity-Based),-0.0231,0.3741
+Heart Failure Clinical Records,Divisive K-Means,-0.0037,0.1179
+Heart Failure Clinical Records,Divisive Ward,-0.0048,0.0882
+Heart Failure Clinical Records,Divisive GMM,0.0011,0.1214
+Heart Failure Clinical Records,DIANA,-0.0129,0.0049
+Heart Failure Clinical Records,density-based,-0.0037,0.1179
+Heart Failure Clinical Records,AgglomerativeClustering (ward),-0.0048,0.0882
+Heart Failure Clinical Records,AgglomerativeClustering (complete),0.0225,0.4686
+Heart Failure Clinical Records,AgglomerativeClustering (average),0.0261,0.4008
+Heart Failure Clinical Records,AgglomerativeClustering (single),0.0074,0.4164
+Heart Failure Clinical Records,Novel divisive clustering algorithm(Order-Based),-0.0022,0.0476
+Heart Failure Clinical Records,Novel Divisive Clustering (Proximity-Based),0.0149,0.4853
+Land Mines,Divisive K-Means,0.0795,0.2669
+Land Mines,Divisive Ward,0.0744,0.3023
+Land Mines,Divisive GMM,0.1247,0.2603
+Land Mines,DIANA,0.0381,-0.0177
+Land Mines,density-based,0.0795,0.2669
+Land Mines,AgglomerativeClustering (ward),0.0744,0.3023
+Land Mines,AgglomerativeClustering (complete),0.0347,0.2643
+Land Mines,AgglomerativeClustering (average),0.0528,0.2918
+Land Mines,AgglomerativeClustering (single),0.0148,-0.0111
+Land Mines,Novel divisive clustering algorithm(Order-Based),0.0455,0.1932
+Land Mines,Novel Divisive Clustering (Proximity-Based),0.0002,0.3001
+Estimation of Obesity Levels Based On Eating Habits and Physical Condition ,Divisive K-Means,0.2303,0.104
+Estimation of Obesity Levels Based On Eating Habits and Physical Condition ,Divisive Ward,0.2564,0.1022
+Estimation of Obesity Levels Based On Eating Habits and Physical Condition ,Divisive GMM,0.2431,0.1043
+Estimation of Obesity Levels Based On Eating Habits and Physical Condition ,DIANA,-0.0013,-0.0061
+Estimation of Obesity Levels Based On Eating Habits and Physical Condition ,density-based,0.2303,0.104
+Estimation of Obesity Levels Based On Eating Habits and Physical Condition ,AgglomerativeClustering (ward),0.2065,0.1362
+Estimation of Obesity Levels Based On Eating Habits and Physical Condition ,AgglomerativeClustering (complete),0.0218,0.1178
+Estimation of Obesity Levels Based On Eating Habits and Physical Condition ,AgglomerativeClustering (average),0.0036,0.3261
+Estimation of Obesity Levels Based On Eating Habits and Physical Condition ,AgglomerativeClustering (single),0.0003,0.3971
+Estimation of Obesity Levels Based On Eating Habits and Physical Condition ,Novel divisive clustering algorithm(Order-Based),0.0853,-0.0158
+Estimation of Obesity Levels Based On Eating Habits and Physical Condition ,Novel Divisive Clustering (Proximity-Based),0.0013,0.0731

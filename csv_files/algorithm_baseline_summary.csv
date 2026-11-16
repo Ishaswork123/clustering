@@ -1,0 +1,12 @@
+Algorithm,Dataset_Type,ARI,Silhouette
+Novel Divisive (Order-Based),other,0.116,0.35753
+Novel Divisive (Proximity-Based),other,0.10393,0.3746
+Divisive K-Means,other,0.09566,0.24001
+Density-Based,other,0.09185,0.21943
+Divisive GMM,other,0.08942,0.14406
+Agglo (average),other,0.0814,0.24975
+Agglo (ward),other,0.07483,0.24239
+Divisive Ward,other,0.06825,0.23301
+Agglo (complete),other,0.03073,0.45559
+Agglo (single),other,0.0103,0.09885
+DIANA,other,-0.00429,-0.02092

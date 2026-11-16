@@ -1,0 +1,569 @@
+Dataset,Algorithm,ARI,Silhouette
+Wine,Divisive K-Means,0.7062,0.2678
+Wine,Divisive Ward,0.7899,0.2774
+Wine,Divisive GMM,0.8666,0.2836
+Wine,DIANA,-0.0052,-0.0245
+Wine,Density-Based,0.7062,0.2678
+Wine,Agglo (ward),0.7899,0.2774
+Wine,Agglo (complete),0.5771,0.2038
+Wine,Novel Divisive (Order),0.1568,0.1013
+Wine,Novel Divisive (Prox),0.1568,0.1013
+Statlog (Shuttle),Divisive K-Means,0.44,0.436
+Statlog (Shuttle),Divisive Ward,0.1177,0.2011
+Statlog (Shuttle),Divisive GMM,0.1396,0.0707
+Statlog (Shuttle),DIANA,0.0053,-0.1631
+Statlog (Shuttle),Density-Based,0.44,0.436
+Statlog (Shuttle),Agglo (ward),0.3156,0.3825
+Statlog (Shuttle),Agglo (complete),0.0067,0.7632
+Statlog (Shuttle),Novel Divisive (Order),0.4403,0.5533
+Statlog (Shuttle),Novel Divisive (Prox),0.4403,0.5533
+Wine Quality,Divisive K-Means,0.0234,0.1221
+Wine Quality,Divisive Ward,0.0202,0.1006
+Wine Quality,Divisive GMM,0.0275,0.0419
+Wine Quality,DIANA,0.0002,-0.0129
+Wine Quality,Density-Based,0.0234,0.1221
+Wine Quality,Agglo (ward),0.027,0.1277
+Wine Quality,Agglo (complete),0.0276,0.0714
+Wine Quality,Novel Divisive (Order),0.0121,0.0663
+Wine Quality,Novel Divisive (Prox),0.0121,0.0663
+Ionosphere,Divisive K-Means,0.1679,0.2704
+Ionosphere,Divisive Ward,0.1775,0.2713
+Ionosphere,Divisive GMM,0.3942,0.1766
+Ionosphere,DIANA,-0.0059,0.0116
+Ionosphere,Density-Based,0.0182,-0.0179
+Ionosphere,Agglo (ward),0.1775,0.2713
+Ionosphere,Agglo (complete),0.1145,0.2604
+Ionosphere,Novel Divisive (Order),0.117,0.2154
+Ionosphere,Novel Divisive (Prox),0.117,0.2154
+HTRU2,Divisive K-Means,0.749,0.6352
+HTRU2,Divisive Ward,0.5669,0.6772
+HTRU2,Divisive GMM,0.3881,0.4645
+HTRU2,DIANA,-0.0025,-0.0012
+HTRU2,Density-Based,0.749,0.6352
+HTRU2,Agglo (ward),0.5669,0.6772
+HTRU2,Agglo (complete),-0.0734,0.285
+HTRU2,Novel Divisive (Order),0.575,0.5359
+HTRU2,Novel Divisive (Prox),0.575,0.5359
+Cervical Cancer Behavior Risk,Divisive K-Means,0.2122,0.2061
+Cervical Cancer Behavior Risk,Divisive Ward,0.4292,0.2047
+Cervical Cancer Behavior Risk,Divisive GMM,0.2122,0.2061
+Cervical Cancer Behavior Risk,DIANA,-0.0238,-0.0599
+Cervical Cancer Behavior Risk,Density-Based,0.2122,0.2061
+Cervical Cancer Behavior Risk,Agglo (ward),0.4292,0.2047
+Cervical Cancer Behavior Risk,Agglo (complete),0.0393,0.3102
+Cervical Cancer Behavior Risk,Novel Divisive (Order),0.0915,0.1173
+Cervical Cancer Behavior Risk,Novel Divisive (Prox),0.0915,0.1173
+Mice Protein Expression,Divisive K-Means,0.1552,0.0543
+Mice Protein Expression,Divisive Ward,0.1507,0.0699
+Mice Protein Expression,Divisive GMM,0.1769,0.0771
+Mice Protein Expression,DIANA,0.0064,-0.0079
+Mice Protein Expression,Density-Based,0.1552,0.0543
+Mice Protein Expression,Agglo (ward),0.1738,0.1064
+Mice Protein Expression,Agglo (complete),0.0892,0.0666
+Mice Protein Expression,Novel Divisive (Order),0.0774,0.0371
+Mice Protein Expression,Novel Divisive (Prox),0.0774,0.0371
+Dow Jones Index,Divisive K-Means,-0.0001,0.1547
+Dow Jones Index,Divisive Ward,-0.0001,0.2129
+Dow Jones Index,Divisive GMM,-0.0001,0.0886
+Dow Jones Index,DIANA,-0.0,-0.169
+Dow Jones Index,Density-Based,-0.0001,0.1607
+Dow Jones Index,Agglo (ward),-0.0,0.0076
+Dow Jones Index,Agglo (complete),-0.0,0.0076
+Dow Jones Index,Novel Divisive (Order),-0.0001,-0.0166
+Dow Jones Index,Novel Divisive (Prox),-0.0001,-0.0166
+Dota2 Games Results,Divisive K-Means,0.0036,0.0088
+Dota2 Games Results,Divisive Ward,0.0006,0.1399
+Dota2 Games Results,Divisive GMM,0.0011,0.0827
+Dota2 Games Results,DIANA,0.0021,-0.0005
+Dota2 Games Results,Density-Based,0.0036,0.0088
+Dota2 Games Results,Agglo (ward),0.0006,0.1399
+Dota2 Games Results,Agglo (complete),-0.0003,0.0126
+Dota2 Games Results,Novel Divisive (Order),-0.0009,0.0117
+Dota2 Games Results,Novel Divisive (Prox),-0.0009,0.0117
+User Knowledge Modeling,Divisive K-Means,0.2065,0.1598
+User Knowledge Modeling,Divisive Ward,0.1936,0.1254
+User Knowledge Modeling,Divisive GMM,0.2665,0.1556
+User Knowledge Modeling,DIANA,-0.0019,-0.018
+User Knowledge Modeling,Density-Based,0.2065,0.1598
+User Knowledge Modeling,Agglo (ward),0.1936,0.1254
+User Knowledge Modeling,Agglo (complete),0.0865,0.0487
+User Knowledge Modeling,Novel Divisive (Order),0.1064,0.0866
+User Knowledge Modeling,Novel Divisive (Prox),0.1064,0.0866
+Tennis Major Tournament Match Statistics,Divisive K-Means,-0.0008,0.1952
+Tennis Major Tournament Match Statistics,Divisive Ward,-0.0007,0.1742
+Tennis Major Tournament Match Statistics,Divisive GMM,-0.0006,0.2173
+Tennis Major Tournament Match Statistics,DIANA,-0.0003,0.0014
+Tennis Major Tournament Match Statistics,Density-Based,-0.0008,0.1952
+Tennis Major Tournament Match Statistics,Agglo (ward),-0.0007,0.1742
+Tennis Major Tournament Match Statistics,Agglo (complete),0.0254,0.1803
+Tennis Major Tournament Match Statistics,Novel Divisive (Order),-0.0004,0.2852
+Tennis Major Tournament Match Statistics,Novel Divisive (Prox),-0.0004,0.2852
+Car Evaluation,Divisive K-Means,0.001,0.119
+Car Evaluation,Divisive Ward,0.0174,0.0685
+Car Evaluation,Divisive GMM,0.0024,0.1078
+Car Evaluation,DIANA,0.0097,-0.0063
+Car Evaluation,Density-Based,0.001,0.119
+Car Evaluation,Agglo (ward),-0.0058,0.0654
+Car Evaluation,Agglo (complete),0.0198,0.0504
+Car Evaluation,Novel Divisive (Order),0.0262,0.0775
+Car Evaluation,Novel Divisive (Prox),0.0262,0.0775
+Predict Students' Dropout and Academic Success,Divisive K-Means,0.1686,0.2058
+Predict Students' Dropout and Academic Success,Divisive Ward,0.1145,0.1777
+Predict Students' Dropout and Academic Success,Divisive GMM,0.1994,0.1919
+Predict Students' Dropout and Academic Success,DIANA,0.0062,-0.0012
+Predict Students' Dropout and Academic Success,Density-Based,0.1686,0.2058
+Predict Students' Dropout and Academic Success,Agglo (ward),0.1145,0.1777
+Predict Students' Dropout and Academic Success,Agglo (complete),-0.0054,0.4202
+Predict Students' Dropout and Academic Success,Novel Divisive (Order),-0.0022,0.363
+Predict Students' Dropout and Academic Success,Novel Divisive (Prox),-0.0022,0.363
+Default of Credit Card Clients,Divisive K-Means,-0.0201,0.3479
+Default of Credit Card Clients,Divisive Ward,-0.0388,0.2443
+Default of Credit Card Clients,Divisive GMM,-0.0372,0.1177
+Default of Credit Card Clients,DIANA,0.0027,0.0005
+Default of Credit Card Clients,Density-Based,-0.0201,0.3479
+Default of Credit Card Clients,Agglo (ward),-0.0388,0.2443
+Default of Credit Card Clients,Agglo (complete),-0.0007,0.8114
+Default of Credit Card Clients,Novel Divisive (Order),0.0036,0.6464
+Default of Credit Card Clients,Novel Divisive (Prox),0.0036,0.6464
+Statlog (German Credit Data),Divisive K-Means,-0.0018,0.0816
+Statlog (German Credit Data),Divisive Ward,-0.0236,0.2696
+Statlog (German Credit Data),Divisive GMM,-0.0134,0.1663
+Statlog (German Credit Data),DIANA,-0.003,-0.0012
+Statlog (German Credit Data),Density-Based,-0.0018,0.0816
+Statlog (German Credit Data),Agglo (ward),-0.0236,0.2696
+Statlog (German Credit Data),Agglo (complete),0.0625,0.118
+Statlog (German Credit Data),Novel Divisive (Order),0.0537,0.1551
+Statlog (German Credit Data),Novel Divisive (Prox),0.0537,0.1551
+Mushroom,Divisive K-Means,0.0624,0.1802
+Mushroom,Divisive Ward,0.2128,0.1593
+Mushroom,Divisive GMM,0.0567,0.1833
+Mushroom,DIANA,-0.0005,-0.001
+Mushroom,Density-Based,0.0624,0.1802
+Mushroom,Agglo (ward),0.2128,0.1593
+Mushroom,Agglo (complete),-0.0012,0.461
+Mushroom,Novel Divisive (Order),-0.0012,0.461
+Mushroom,Novel Divisive (Prox),-0.0012,0.461
+CDC Diabetes Health Indicators,Divisive K-Means,0.1614,0.1824
+CDC Diabetes Health Indicators,Divisive Ward,0.0514,0.1417
+CDC Diabetes Health Indicators,Divisive GMM,0.133,0.1794
+CDC Diabetes Health Indicators,DIANA,0.0044,-0.0005
+CDC Diabetes Health Indicators,Density-Based,0.1614,0.1824
+CDC Diabetes Health Indicators,Agglo (ward),0.0514,0.1417
+CDC Diabetes Health Indicators,Agglo (complete),-0.0041,0.4149
+CDC Diabetes Health Indicators,Novel Divisive (Order),-0.0464,0.0648
+CDC Diabetes Health Indicators,Novel Divisive (Prox),-0.0464,0.0648
+MAGIC Gamma Telescope,Divisive K-Means,0.0018,0.2926
+MAGIC Gamma Telescope,Divisive Ward,0.0493,0.3164
+MAGIC Gamma Telescope,Divisive GMM,0.0594,0.2923
+MAGIC Gamma Telescope,DIANA,-0.0004,-0.0008
+MAGIC Gamma Telescope,Density-Based,0.0018,0.2926
+MAGIC Gamma Telescope,Agglo (ward),0.0493,0.3164
+MAGIC Gamma Telescope,Agglo (complete),0.0111,0.4301
+MAGIC Gamma Telescope,Novel Divisive (Order),0.0003,0.0978
+MAGIC Gamma Telescope,Novel Divisive (Prox),0.0003,0.0978
+Breast Cancer Wisconsin (Original),Divisive K-Means,0.8232,0.574
+Breast Cancer Wisconsin (Original),Divisive Ward,0.8609,0.5586
+Breast Cancer Wisconsin (Original),Divisive GMM,0.5548,0.402
+Breast Cancer Wisconsin (Original),DIANA,-0.0026,-0.0027
+Breast Cancer Wisconsin (Original),Density-Based,0.8232,0.574
+Breast Cancer Wisconsin (Original),Agglo (ward),0.8609,0.5586
+Breast Cancer Wisconsin (Original),Agglo (complete),0.8769,0.5588
+Breast Cancer Wisconsin (Original),Novel Divisive (Order),0.3068,0.5133
+Breast Cancer Wisconsin (Original),Novel Divisive (Prox),0.3068,0.5133
+Credit Approval,Divisive K-Means,0.0065,0.1764
+Credit Approval,Divisive Ward,0.0027,0.1618
+Credit Approval,Divisive GMM,0.2501,0.0933
+Credit Approval,DIANA,-0.0,-0.003
+Credit Approval,Density-Based,0.0065,0.1764
+Credit Approval,Agglo (ward),0.0027,0.1618
+Credit Approval,Agglo (complete),0.0022,0.632
+Credit Approval,Novel Divisive (Order),0.003,0.5847
+Credit Approval,Novel Divisive (Prox),0.003,0.5847
+Census Income,Divisive K-Means,0.045,0.1496
+Census Income,Divisive Ward,0.0004,0.2114
+Census Income,Divisive GMM,0.0079,0.1397
+Census Income,DIANA,-0.0019,-0.0021
+Census Income,Density-Based,0.045,0.1496
+Census Income,Agglo (ward),0.0004,0.2114
+Census Income,Agglo (complete),0.0366,0.3141
+Census Income,Novel Divisive (Order),0.0332,0.068
+Census Income,Novel Divisive (Prox),0.0332,0.068
+Optical Recognition of Handwritten Digits,Divisive K-Means,0.5616,0.0974
+Optical Recognition of Handwritten Digits,Divisive Ward,0.6413,0.097
+Optical Recognition of Handwritten Digits,Divisive GMM,0.4089,0.0604
+Optical Recognition of Handwritten Digits,DIANA,-0.0009,-0.1094
+Optical Recognition of Handwritten Digits,Density-Based,0.5616,0.0974
+Optical Recognition of Handwritten Digits,Agglo (ward),0.4965,0.1208
+Optical Recognition of Handwritten Digits,Agglo (complete),0.0006,0.3675
+Optical Recognition of Handwritten Digits,Novel Divisive (Order),0.1101,0.0548
+Optical Recognition of Handwritten Digits,Novel Divisive (Prox),0.1101,0.0548
+Balance Scale,Divisive K-Means,0.1381,0.1532
+Balance Scale,Divisive Ward,0.172,0.169
+Balance Scale,Divisive GMM,0.0879,0.1595
+Balance Scale,DIANA,-0.0057,-0.0065
+Balance Scale,Density-Based,0.1381,0.1532
+Balance Scale,Agglo (ward),0.1222,0.169
+Balance Scale,Agglo (complete),0.1222,0.169
+Balance Scale,Novel Divisive (Order),0.209,0.1411
+Balance Scale,Novel Divisive (Prox),0.209,0.1411
+Breast Cancer,Divisive K-Means,0.1682,0.2434
+Breast Cancer,Divisive Ward,0.1603,0.2405
+Breast Cancer,Divisive GMM,0.1485,0.2248
+Breast Cancer,DIANA,-0.0098,-0.0046
+Breast Cancer,Density-Based,0.1682,0.2434
+Breast Cancer,Agglo (ward),0.1603,0.2405
+Breast Cancer,Agglo (complete),0.101,0.1581
+Breast Cancer,Novel Divisive (Order),0.0552,0.1337
+Breast Cancer,Novel Divisive (Prox),0.0552,0.1337
+Breast Cancer Wisconsin (Prognostic),Divisive K-Means,0.0282,0.1795
+Breast Cancer Wisconsin (Prognostic),Divisive Ward,-0.0285,0.1509
+Breast Cancer Wisconsin (Prognostic),Divisive GMM,0.0273,0.1784
+Breast Cancer Wisconsin (Prognostic),DIANA,-0.0275,-0.0063
+Breast Cancer Wisconsin (Prognostic),Density-Based,0.0282,0.1795
+Breast Cancer Wisconsin (Prognostic),Agglo (ward),-0.0285,0.1509
+Breast Cancer Wisconsin (Prognostic),Agglo (complete),-0.0388,0.1696
+Breast Cancer Wisconsin (Prognostic),Novel Divisive (Order),-0.0269,0.1657
+Breast Cancer Wisconsin (Prognostic),Novel Divisive (Prox),-0.0269,0.1657
+Chess (King-Rook vs. King-Pawn),Divisive K-Means,-0.0001,0.1151
+Chess (King-Rook vs. King-Pawn),Divisive Ward,0.004,0.1235
+Chess (King-Rook vs. King-Pawn),Divisive GMM,0.0021,0.1201
+Chess (King-Rook vs. King-Pawn),DIANA,-0.0004,-0.0003
+Chess (King-Rook vs. King-Pawn),Density-Based,-0.0001,0.1151
+Chess (King-Rook vs. King-Pawn),Agglo (ward),0.004,0.1235
+Chess (King-Rook vs. King-Pawn),Agglo (complete),0.0001,0.8264
+Chess (King-Rook vs. King-Pawn),Novel Divisive (Order),0.0001,0.8264
+Chess (King-Rook vs. King-Pawn),Novel Divisive (Prox),0.0001,0.8264
+Covertype,Divisive K-Means,0.0691,0.1049
+Covertype,Divisive Ward,0.066,0.0669
+Covertype,Divisive GMM,0.0729,0.0955
+Covertype,DIANA,0.0,0.0
+Covertype,Density-Based,0.0691,0.1049
+Covertype,Agglo (ward),0.0669,0.055
+Covertype,Agglo (complete),0.0006,0.7257
+Covertype,Novel Divisive (Order),0.0153,0.0069
+Covertype,Novel Divisive (Prox),0.0153,0.0069
+Horse Colic,Divisive K-Means,0.0458,0.1473
+Horse Colic,Divisive Ward,0.0259,0.1323
+Horse Colic,Divisive GMM,0.1561,0.0876
+Horse Colic,DIANA,-0.0152,-0.0031
+Horse Colic,Density-Based,0.0458,0.1473
+Horse Colic,Agglo (ward),0.0259,0.1323
+Horse Colic,Agglo (complete),-0.0022,0.6709
+Horse Colic,Novel Divisive (Order),-0.0022,0.6709
+Horse Colic,Novel Divisive (Prox),-0.0022,0.6709
+Musk (Version 2),Divisive K-Means,-0.0337,0.256
+Musk (Version 2),Divisive Ward,-0.0345,0.2534
+Musk (Version 2),Divisive GMM,-0.0344,0.256
+Musk (Version 2),DIANA,-0.0,-0.0007
+Musk (Version 2),Density-Based,-0.0337,0.256
+Musk (Version 2),Agglo (ward),-0.0345,0.2534
+Musk (Version 2),Agglo (complete),-0.0094,0.2269
+Musk (Version 2),Novel Divisive (Order),-0.0023,0.1937
+Musk (Version 2),Novel Divisive (Prox),-0.0023,0.1937
+Spambase,Divisive K-Means,-0.0081,0.6008
+Spambase,Divisive Ward,-0.0099,0.5667
+Spambase,Divisive GMM,0.2728,0.0481
+Spambase,DIANA,0.0,0.0
+Spambase,Density-Based,-0.0081,0.6008
+Spambase,Agglo (ward),-0.0099,0.5667
+Spambase,Agglo (complete),0.0005,0.8373
+Spambase,Novel Divisive (Order),0.0011,0.8094
+Spambase,Novel Divisive (Prox),0.0011,0.8094
+Audiology (Standardized),Divisive K-Means,0.1731,0.0284
+Audiology (Standardized),Divisive Ward,0.1274,0.0554
+Audiology (Standardized),Divisive GMM,0.209,0.0097
+Audiology (Standardized),DIANA,0.0,0.0
+Audiology (Standardized),Density-Based,0.094,-0.0422
+Audiology (Standardized),Agglo (ward),0.1135,0.1876
+Audiology (Standardized),Agglo (complete),0.0546,0.2848
+Audiology (Standardized),Novel Divisive (Order),0.0976,-0.0665
+Audiology (Standardized),Novel Divisive (Prox),0.0976,-0.0665
+Auto MPG,Divisive K-Means,0.0463,0.2158
+Auto MPG,Divisive Ward,0.0469,0.2734
+Auto MPG,Divisive GMM,0.0402,0.1481
+Auto MPG,DIANA,0.0028,-0.3405
+Auto MPG,Density-Based,0.0458,0.217
+Auto MPG,Agglo (ward),0.0705,0.3031
+Auto MPG,Agglo (complete),0.0569,0.2811
+Auto MPG,Novel Divisive (Order),0.0496,0.0643
+Auto MPG,Novel Divisive (Prox),0.0496,0.0643
+Balloons,Divisive K-Means,-0.0535,0.1105
+Balloons,Divisive Ward,0.0803,0.1754
+Balloons,Divisive GMM,0.0041,0.0882
+Balloons,DIANA,-0.05,-0.0562
+Balloons,Density-Based,-0.0535,0.1105
+Balloons,Agglo (ward),0.0803,0.1754
+Balloons,Agglo (complete),0.0803,0.1754
+Balloons,Novel Divisive (Order),0.2033,0.0882
+Balloons,Novel Divisive (Prox),0.2033,0.0882
+Breast Cancer Wisconsin (Diagnostic),Divisive K-Means,0.6536,0.3434
+Breast Cancer Wisconsin (Diagnostic),Divisive Ward,0.575,0.3394
+Breast Cancer Wisconsin (Diagnostic),Divisive GMM,0.774,0.3145
+Breast Cancer Wisconsin (Diagnostic),DIANA,0.0041,-0.0025
+Breast Cancer Wisconsin (Diagnostic),Density-Based,0.6536,0.3434
+Breast Cancer Wisconsin (Diagnostic),Agglo (ward),0.575,0.3394
+Breast Cancer Wisconsin (Diagnostic),Agglo (complete),0.0048,0.6607
+Breast Cancer Wisconsin (Diagnostic),Novel Divisive (Order),0.269,0.1725
+Breast Cancer Wisconsin (Diagnostic),Novel Divisive (Prox),0.269,0.1725
+Chess (King-Rook vs. King),Divisive K-Means,0.0382,0.1095
+Chess (King-Rook vs. King),Divisive Ward,0.042,0.0853
+Chess (King-Rook vs. King),Divisive GMM,0.0383,0.0842
+Chess (King-Rook vs. King),DIANA,-0.0011,-0.0422
+Chess (King-Rook vs. King),Density-Based,0.0382,0.1095
+Chess (King-Rook vs. King),Agglo (ward),0.0431,0.0946
+Chess (King-Rook vs. King),Agglo (complete),0.0355,0.0699
+Chess (King-Rook vs. King),Novel Divisive (Order),0.03,0.0668
+Chess (King-Rook vs. King),Novel Divisive (Prox),0.03,0.0668
+Connect-4,Divisive K-Means,0.0019,0.0748
+Connect-4,Divisive Ward,0.0038,0.0647
+Connect-4,Divisive GMM,-0.0156,0.0708
+Connect-4,DIANA,-0.005,-0.0026
+Connect-4,Density-Based,0.0019,0.0748
+Connect-4,Agglo (ward),0.0038,0.0647
+Connect-4,Agglo (complete),-0.0015,0.6801
+Connect-4,Novel Divisive (Order),0.0129,0.0454
+Connect-4,Novel Divisive (Prox),0.0129,0.0454
+Japanese Credit Screening,Divisive K-Means,0.0065,0.1572
+Japanese Credit Screening,Divisive Ward,0.0012,0.1381
+Japanese Credit Screening,Divisive GMM,0.0065,0.1572
+Japanese Credit Screening,DIANA,0.0015,-0.0096
+Japanese Credit Screening,Density-Based,0.0065,0.1572
+Japanese Credit Screening,Agglo (ward),0.0012,0.1381
+Japanese Credit Screening,Agglo (complete),0.0007,0.7414
+Japanese Credit Screening,Novel Divisive (Order),0.003,0.583
+Japanese Credit Screening,Novel Divisive (Prox),0.003,0.583
+Contraceptive Method Choice,Divisive K-Means,0.0361,0.1872
+Contraceptive Method Choice,Divisive Ward,0.0058,0.2336
+Contraceptive Method Choice,Divisive GMM,0.0338,0.1718
+Contraceptive Method Choice,DIANA,0.0856,-0.0021
+Contraceptive Method Choice,Density-Based,0.0361,0.1872
+Contraceptive Method Choice,Agglo (ward),0.0058,0.2336
+Contraceptive Method Choice,Agglo (complete),-0.0139,0.1604
+Contraceptive Method Choice,Novel Divisive (Order),0.0209,0.1417
+Contraceptive Method Choice,Novel Divisive (Prox),0.0209,0.1417
+Dermatology,Divisive K-Means,0.9202,0.2185
+Dermatology,Divisive Ward,0.7354,0.2204
+Dermatology,Divisive GMM,0.69,0.1489
+Dermatology,DIANA,-0.0072,-0.1019
+Dermatology,Density-Based,0.8505,0.1576
+Dermatology,Agglo (ward),0.9023,0.2191
+Dermatology,Agglo (complete),0.6436,0.2438
+Dermatology,Novel Divisive (Order),0.6859,0.1597
+Dermatology,Novel Divisive (Prox),0.6859,0.1597
+Yeast,Divisive K-Means,0.1086,0.1103
+Yeast,Divisive Ward,0.1594,0.1314
+Yeast,Divisive GMM,0.0957,-0.0216
+Yeast,DIANA,0.0012,-0.0126
+Yeast,Density-Based,0.1086,0.1103
+Yeast,Agglo (ward),0.1692,0.1514
+Yeast,Agglo (complete),0.1083,0.1815
+Yeast,Novel Divisive (Order),0.0622,0.0474
+Yeast,Novel Divisive (Prox),0.0622,0.0474
+Statlog (Landsat Satellite),Divisive K-Means,0.4938,0.2954
+Statlog (Landsat Satellite),Divisive Ward,0.5211,0.2983
+Statlog (Landsat Satellite),Divisive GMM,0.4641,0.2063
+Statlog (Landsat Satellite),DIANA,-0.0017,-0.004
+Statlog (Landsat Satellite),Density-Based,0.4938,0.2954
+Statlog (Landsat Satellite),Agglo (ward),0.5421,0.3267
+Statlog (Landsat Satellite),Agglo (complete),0.3189,0.2459
+Statlog (Landsat Satellite),Novel Divisive (Order),0.3749,0.1797
+Statlog (Landsat Satellite),Novel Divisive (Prox),0.3749,0.1797
+,,,
+YouTube Spam Collection,Divisive K-Means,0.119,0.2585
+YouTube Spam Collection,Divisive Ward,-0.0005,0.213
+YouTube Spam Collection,Divisive GMM,0.0001,0.2521
+YouTube Spam Collection,DIANA,-0.0001,-0.041
+YouTube Spam Collection,Density-Based,0.119,0.2585
+YouTube Spam Collection,Agglo (ward),-0.0005,0.213
+YouTube Spam Collection,Agglo (complete),0.0003,0.2064
+YouTube Spam Collection,Novel Divisive (Order),0.0297,0.2218
+YouTube Spam Collection,Novel Divisive (Prox),0.0297,0.2218
+Zoo,Divisive K-Means,0.4783,0.3599
+Zoo,Divisive Ward,0.48,0.3361
+Zoo,Divisive GMM,0.5939,0.3384
+Zoo,DIANA,-0.0334,-0.0759
+Zoo,Density-Based,0.5386,0.2779
+Zoo,Agglo (ward),0.6799,0.3849
+Zoo,Agglo (complete),0.911,0.3977
+Zoo,Novel Divisive (Order),0.4454,0.228
+Zoo,Novel Divisive (Prox),0.4454,0.228
+Automobile,Divisive K-Means,0.1363,0.1405
+Automobile,Divisive Ward,0.1333,0.1139
+Automobile,Divisive GMM,0.1045,0.1527
+Automobile,DIANA,0.0093,-0.0507
+Automobile,Density-Based,0.1363,0.1405
+Automobile,Agglo (ward),0.1162,0.2231
+Automobile,Agglo (complete),0.0879,0.1302
+Automobile,Novel Divisive (Order),0.0637,0.0586
+Automobile,Novel Divisive (Prox),0.0637,0.0586
+Image Segmentation,Divisive K-Means,0.4738,0.2457
+Image Segmentation,Divisive Ward,0.4268,0.2693
+Image Segmentation,Divisive GMM,0.4783,0.2302
+Image Segmentation,DIANA,0.0074,-0.1304
+Image Segmentation,Density-Based,0.4738,0.2457
+Image Segmentation,Agglo (ward),0.3527,0.3425
+Image Segmentation,Agglo (complete),0.2821,0.2821
+Image Segmentation,Novel Divisive (Order),0.3497,0.2329
+Image Segmentation,Novel Divisive (Prox),0.3497,0.2329
+Liver Disorders,Divisive K-Means,0.0074,0.0845
+Liver Disorders,Divisive Ward,0.0044,0.1088
+Liver Disorders,Divisive GMM,0.0001,0.0303
+Liver Disorders,DIANA,0.0547,-0.1575
+Liver Disorders,Density-Based,0.0131,0.0517
+Liver Disorders,Agglo (ward),0.0164,0.1737
+Liver Disorders,Agglo (complete),0.0122,0.1426
+Liver Disorders,Novel Divisive (Order),0.0133,0.0333
+Liver Disorders,Novel Divisive (Prox),0.0133,0.0333
+Shuttle Landing Control,Divisive K-Means,-0.0305,0.3052
+Shuttle Landing Control,Divisive Ward,-0.0305,0.3052
+Shuttle Landing Control,Divisive GMM,-0.0618,0.1562
+Shuttle Landing Control,DIANA,-0.0139,-0.133
+Shuttle Landing Control,Density-Based,0.0468,0.2025
+Shuttle Landing Control,Agglo (ward),-0.0305,0.3052
+Shuttle Landing Control,Agglo (complete),-0.0272,0.217
+Shuttle Landing Control,Novel Divisive (Order),-0.0139,0.4099
+Shuttle Landing Control,Novel Divisive (Prox),-0.0139,0.4099
+Online Shoppers Purchasing Intention Dataset,Divisive K-Means,0.1383,0.2491
+Online Shoppers Purchasing Intention Dataset,Divisive Ward,0.1073,0.2468
+Online Shoppers Purchasing Intention Dataset,Divisive GMM,0.0324,0.1359
+Online Shoppers Purchasing Intention Dataset,DIANA,-0.002,-0.0002
+Online Shoppers Purchasing Intention Dataset,Density-Based,0.1383,0.2491
+Online Shoppers Purchasing Intention Dataset,Agglo (ward),0.1073,0.2468
+Online Shoppers Purchasing Intention Dataset,Agglo (complete),0.0134,0.6472
+Online Shoppers Purchasing Intention Dataset,Novel Divisive (Order),0.2956,0.082
+Online Shoppers Purchasing Intention Dataset,Novel Divisive (Prox),0.2956,0.082
+Diabetes 130-US Hospitals for Years 1999-2008,Divisive K-Means,-0.0011,0.0009
+Diabetes 130-US Hospitals for Years 1999-2008,Divisive Ward,0.001,0.2591
+Diabetes 130-US Hospitals for Years 1999-2008,Divisive GMM,-0.0011,-0.0018
+Diabetes 130-US Hospitals for Years 1999-2008,DIANA,0.0058,-0.0016
+Diabetes 130-US Hospitals for Years 1999-2008,Density-Based,-0.0011,0.0009
+Diabetes 130-US Hospitals for Years 1999-2008,Agglo (ward),0.001,0.2591
+Diabetes 130-US Hospitals for Years 1999-2008,Agglo (complete),-0.0005,0.7944
+Diabetes 130-US Hospitals for Years 1999-2008,Novel Divisive (Order),-0.0039,0.0432
+Diabetes 130-US Hospitals for Years 1999-2008,Novel Divisive (Prox),-0.0039,0.0432
+Heart Failure Clinical Records,Density-Based,-0.0037,0.1179
+Heart Failure Clinical Records,Agglo (ward),-0.0048,0.0882
+Heart Failure Clinical Records,Agglo (complete),0.0225,0.4686
+Heart Failure Clinical Records,Novel Divisive (Order),-0.0018,0.0542
+Heart Failure Clinical Records,Novel Divisive (Prox),-0.0018,0.0542
+Iris,Divisive K-Means,0.6101,0.4584
+Iris,Divisive Ward,0.6153,0.4455
+Iris,Divisive GMM,0.9039,0.3728
+Iris,DIANA,-0.0013,-0.0322
+Iris,density-based,0.6101,0.4584
+Iris,AgglomerativeClustering (ward),0.6153,0.4455
+Iris,AgglomerativeClustering (complete),0.5726,0.4488
+Iris,AgglomerativeClustering (average),0.5621,0.4795
+Iris,AgglomerativeClustering (single),0.5584,0.5029
+Iris,Novel divisive clustering algorithm(order based),0.4361,0.3629
+Iris,Novel Divisive Clustering (proximity based,0.1835,0.0353
+Heart Disease,Divisive K-Means,0.1788,0.1018
+Heart Disease,Divisive Ward,0.0877,0.0873
+Heart Disease,Divisive GMM,0.0797,0.0749
+Heart Disease,DIANA,0.0055,-0.02
+Heart Disease,density-based,0.1788,0.1018
+Heart Disease,AgglomerativeClustering (ward),0.0877,0.0873
+Heart Disease,AgglomerativeClustering (complete),0.1573,0.0726
+Heart Disease,AgglomerativeClustering (average),0.0833,0.1395
+Heart Disease,AgglomerativeClustering (single),0.0209,0.1382
+Heart Disease,Novel divisive clustering algorithm(order based),0.0613,0.0295
+Heart Disease,Novel Divisive Clustering (proximity based,0.0125,0.2142
+Adult,Divisive K-Means,0.045,0.1496
+Adult,Divisive Ward,0.0004,0.2114
+Adult,Divisive GMM,0.0079,0.1397
+Adult,DIANA,-0.0019,-0.0021
+Adult,density-based,0.045,0.1496
+Adult,AgglomerativeClustering (ward),0.0004,0.2114
+Adult,AgglomerativeClustering (complete),0.0366,0.3141
+Adult,AgglomerativeClustering (average),0.0101,0.3684
+Adult,AgglomerativeClustering (single),0.0097,0.3858
+Adult,Novel divisive clustering algorithm(order based),0.0208,0.0303
+Adult,Novel Divisive Clustering (proximity based,0.0001,0.2342
+Bank Marketing,Divisive K-Means,0.0143,0.0918
+Bank Marketing,Divisive Ward,0.1568,0.2304
+Bank Marketing,Divisive GMM,0.0161,0.0919
+Bank Marketing,DIANA,-0.003,-0.0004
+Bank Marketing,density-based,0.0143,0.0918
+Bank Marketing,AgglomerativeClustering (ward),0.1568,0.2304
+Bank Marketing,AgglomerativeClustering (complete),0.0039,0.6943
+Bank Marketing,AgglomerativeClustering (average),-0.0009,0.7111
+Bank Marketing,AgglomerativeClustering (single),-0.0009,0.7111
+Bank Marketing,Novel divisive clustering algorithm(order based),0.0067,0.0438
+Bank Marketing,Novel Divisive Clustering (proximity based,0.0039,0.6425
+Banknote Authentication,Divisive K-Means,0.0129,0.3291
+Banknote Authentication,Divisive Ward,0.0348,0.313
+Banknote Authentication,Divisive GMM,0.0031,0.3021
+Banknote Authentication,DIANA,-0.0007,-0.0012
+Banknote Authentication,density-based,0.0129,0.3291
+Banknote Authentication,AgglomerativeClustering (ward),0.0348,0.313
+Banknote Authentication,AgglomerativeClustering (complete),0.072,0.3845
+Banknote Authentication,AgglomerativeClustering (average),0.0795,0.36
+Banknote Authentication,AgglomerativeClustering (single),-0.0003,0.0595
+Banknote Authentication,Novel divisive clustering algorithm(order based),0.1818,0.2709
+Banknote Authentication,Novel Divisive Clustering (proximity based,0.0013,0.4106
+HCV data,Divisive K-Means,0.053,0.122
+HCV data,Divisive Ward,0.1059,0.1224
+HCV data,Divisive GMM,0.0909,0.0148
+HCV data,DIANA,0.1342,0.0334
+HCV data,density-based,0.053,0.122
+HCV data,AgglomerativeClustering (ward),0.1161,0.1629
+HCV data,AgglomerativeClustering (complete),0.2429,0.6134
+HCV data,AgglomerativeClustering (average),0.1272,0.6589
+HCV data,AgglomerativeClustering (single),0.0922,0.6203
+HCV data,Novel divisive clustering algorithm(order based),-0.0055,-0.0393
+HCV data,Novel Divisive Clustering (proximity based,0.1024,0.4958
+Blood Transfusion Service Center,Divisive K-Means,0.0527,0.4356
+Blood Transfusion Service Center,Divisive Ward,0.0286,0.3861
+Blood Transfusion Service Center,Divisive GMM,-0.048,0.1644
+Blood Transfusion Service Center,DIANA,0.0079,-0.0056
+Blood Transfusion Service Center,density-based,0.0527,0.4356
+Blood Transfusion Service Center,AgglomerativeClustering (ward),0.0286,0.3861
+Blood Transfusion Service Center,AgglomerativeClustering (complete),0.0311,0.7506
+Blood Transfusion Service Center,AgglomerativeClustering (average),0.0311,0.7506
+Blood Transfusion Service Center,AgglomerativeClustering (single),-0.0036,0.7202
+Blood Transfusion Service Center,Novel divisive clustering algorithm(order based),0.0672,0.2552
+Blood Transfusion Service Center,Novel Divisive Clustering (proximity based,0.0101,0.611
+Wholesale customers,Divisive K-Means,-0.027,0.3996
+Wholesale customers,Divisive Ward,-0.0127,0.3671
+Wholesale customers,Divisive GMM,-0.0157,0.3332
+Wholesale customers,DIANA,-0.0207,-0.0144
+Wholesale customers,density-based,-0.027,0.3996
+Wholesale customers,AgglomerativeClustering (ward),-0.0071,0.4071
+Wholesale customers,AgglomerativeClustering (complete),-0.0071,0.7359
+Wholesale customers,AgglomerativeClustering (average),-0.0071,0.7359
+Wholesale customers,AgglomerativeClustering (single),0.0059,0.7693
+Wholesale customers,Novel divisive clustering algorithm(order based),-0.0027,0.1239
+Wholesale customers,Novel Divisive Clustering (proximity based,-0.0231,0.3741
+Heart Failure Clinical Records,Divisive K-Means,-0.0037,0.1179
+Heart Failure Clinical Records,Divisive Ward,-0.0048,0.0882
+Heart Failure Clinical Records,Divisive GMM,0.0011,0.1214
+Heart Failure Clinical Records,DIANA,-0.0129,0.0049
+Heart Failure Clinical Records,density-based,-0.0037,0.1179
+Heart Failure Clinical Records,AgglomerativeClustering (ward),-0.0048,0.0882
+Heart Failure Clinical Records,AgglomerativeClustering (complete),0.0225,0.4686
+Heart Failure Clinical Records,AgglomerativeClustering (average),0.0261,0.4008
+Heart Failure Clinical Records,AgglomerativeClustering (single),0.0074,0.4164
+Heart Failure Clinical Records,Novel divisive clustering algorithm(order based),-0.0022,0.0476
+Heart Failure Clinical Records,Novel Divisive Clustering (proximity based,0.0149,0.4853
+Land Mines,Divisive K-Means,0.0795,0.2669
+Land Mines,Divisive Ward,0.0744,0.3023
+Land Mines,Divisive GMM,0.1247,0.2603
+Land Mines,DIANA,0.0381,-0.0177
+Land Mines,density-based,0.0795,0.2669
+Land Mines,AgglomerativeClustering (ward),0.0744,0.3023
+Land Mines,AgglomerativeClustering (complete),0.0347,0.2643
+Land Mines,AgglomerativeClustering (average),0.0528,0.2918
+Land Mines,AgglomerativeClustering (single),0.0148,-0.0111
+Land Mines,Novel divisive clustering algorithm(order based),0.0455,0.1932
+Land Mines,Novel Divisive Clustering (proximity based,0.0002,0.3001
+Estimation of Obesity Levels Based On Eating Habits and Physical Condition ,Divisive K-Means,0.2303,0.104
+Estimation of Obesity Levels Based On Eating Habits and Physical Condition ,Divisive Ward,0.2564,0.1022
+Estimation of Obesity Levels Based On Eating Habits and Physical Condition ,Divisive GMM,0.2431,0.1043
+Estimation of Obesity Levels Based On Eating Habits and Physical Condition ,DIANA,-0.0013,-0.0061
+Estimation of Obesity Levels Based On Eating Habits and Physical Condition ,density-based,0.2303,0.104
+Estimation of Obesity Levels Based On Eating Habits and Physical Condition ,AgglomerativeClustering (ward),0.2065,0.1362
+Estimation of Obesity Levels Based On Eating Habits and Physical Condition ,AgglomerativeClustering (complete),0.0218,0.1178
+Estimation of Obesity Levels Based On Eating Habits and Physical Condition ,AgglomerativeClustering (average),0.0036,0.3261
+Estimation of Obesity Levels Based On Eating Habits and Physical Condition ,AgglomerativeClustering (single),0.0003,0.3971
+Estimation of Obesity Levels Based On Eating Habits and Physical Condition ,Novel divisive clustering algorithm(order based),0.0853,-0.0158
+Estimation of Obesity Levels Based On Eating Habits and Physical Condition ,Novel Divisive Clustering (proximity based,0.0013,0.0731

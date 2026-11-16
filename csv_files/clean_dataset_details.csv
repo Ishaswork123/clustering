@@ -1,0 +1,20 @@
+Name,ID,Instances,Attributes,Domain
+Statlog (Shuttle),148,58000,7,Physics and Chemistry
+Ionosphere,52,351,34,Physics and Chemistry
+HTRU2,372,17898,8,Physics and Chemistry
+Car Evaluation,19,1728,6,Other
+Default of Credit Card Clients,350,30000,23,Business
+Statlog (German Credit Data),144,1000,20,Social Science
+Credit Approval,27,690,15,Business
+Census Income,20,48842,14,Social Science
+Balance Scale,12,625,4,Social Science
+Chess (King-Rook vs. King-Pawn),22,3196,35,Games
+Horse Colic,47,368,27,Biology
+Spambase,94,4601,57,Computer Science
+Balloons,13,16,4,Social Science
+Connect-4,26,67557,42,Games
+Japanese Credit Screening,28,125,15,Business
+Shuttle Landing Control,88,15,6,Physics and Chemistry
+Online Shoppers Purchasing Intention Dataset,468,12330,17,Business
+Heart Disease,45,303,13,Health and Medicine
+Banknote Authentication,267,1372,4,Computer Science

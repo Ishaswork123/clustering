@@ -1,0 +1,17 @@
+Algorithm,ARI,Silhouette
+Density-Based,0.1693,0.194
+Agglo (ward),0.1689,0.2217
+Divisive K-Means,0.1645,0.2132
+Divisive GMM,0.162,0.1603
+Divisive Ward,0.1575,0.2181
+AgglomerativeClustering (ward),0.119,0.2519
+density-based,0.1133,0.2342
+AgglomerativeClustering (complete),0.108,0.4423
+Novel Divisive (Order),0.106,0.2175
+Novel Divisive (Prox),0.106,0.2175
+Agglo (complete),0.0931,0.3517
+AgglomerativeClustering (average),0.088,0.4748
+Novel divisive clustering algorithm(order based),0.0813,0.1184
+AgglomerativeClustering (single),0.0641,0.4282
+Novel Divisive Clustering (proximity based),0.0279,0.3524
+DIANA,0.0022,-0.0303

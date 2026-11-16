@@ -1,0 +1,50 @@
+test,method1,method2,t_statistic,p_value,mean_diff
+pairwise_t_test,Divisive K-Means,DIANA,5.191759960548622,2.589226572504337e-06,0.16235
+pairwise_t_test,Divisive K-Means,Agglo (complete),1.654326647865421,0.10097357014614308,0.071444
+pairwise_t_test,Divisive K-Means,density-based,0.8129746479328895,0.42736824345366375,0.05127636363636365
+pairwise_t_test,Divisive K-Means,AgglomerativeClustering (ward),0.7327690536301295,0.47342360676819456,0.04556727272727272
+pairwise_t_test,Divisive K-Means,AgglomerativeClustering (complete),0.9378331751071822,0.3606241711697524,0.05651272727272727
+pairwise_t_test,Divisive K-Means,AgglomerativeClustering (average),1.3177531836882301,0.20315105362702238,0.0765581818181818
+pairwise_t_test,Divisive K-Means,AgglomerativeClustering (single),1.703875215555762,0.10494083293755871,0.10046727272727271
+pairwise_t_test,Divisive K-Means,Novel divisive clustering algorithm(order based),1.6644855728610333,0.10854050082580005,0.08323999999999998
+pairwise_t_test,Divisive K-Means,Novel Divisive Clustering (proximity based,3.788503837029581,0.0003420921658736948,0.13662181818181818
+pairwise_t_test,Divisive Ward,DIANA,5.169264096371568,2.8047982665024804e-06,0.15534333333333333
+pairwise_t_test,Divisive Ward,density-based,0.7085764460269991,0.488440535298081,0.04426969696969699
+pairwise_t_test,Divisive Ward,AgglomerativeClustering (ward),0.6261781744006266,0.5395954775643538,0.03856060606060606
+pairwise_t_test,Divisive Ward,AgglomerativeClustering (complete),0.8301488496283745,0.4176396173018121,0.04950606060606061
+pairwise_t_test,Divisive Ward,AgglomerativeClustering (average),1.210636113361974,0.24138689801729676,0.06955151515151514
+pairwise_t_test,Divisive Ward,AgglomerativeClustering (single),1.6023701974661884,0.12648013310718703,0.09346060606060605
+pairwise_t_test,Divisive Ward,Novel divisive clustering algorithm(order based),1.5476908765680168,0.13496116054736404,0.07623333333333332
+pairwise_t_test,Divisive Ward,Novel Divisive Clustering (proximity based,3.702218596551528,0.0004610624406948256,0.12961515151515152
+pairwise_t_test,Divisive GMM,DIANA,5.250641467941829,2.07558418586663e-06,0.15981833333333334
+pairwise_t_test,Divisive GMM,Agglo (complete),1.6181551865145143,0.10856596012413246,0.06891233333333334
+pairwise_t_test,Divisive GMM,density-based,0.7778766595679614,0.44749073270317274,0.04874469696969699
+pairwise_t_test,Divisive GMM,AgglomerativeClustering (ward),0.6967023958056714,0.49538963276825915,0.043035606060606066
+pairwise_t_test,Divisive GMM,AgglomerativeClustering (complete),0.9022275703417403,0.3790449873898569,0.053981060606060616
+pairwise_t_test,Divisive GMM,AgglomerativeClustering (average),1.2839896434581073,0.2149084088991867,0.07402651515151515
+pairwise_t_test,Divisive GMM,AgglomerativeClustering (single),1.6733531760380318,0.11133548309235856,0.09793560606060606
+pairwise_t_test,Divisive GMM,Novel divisive clustering algorithm(order based),1.630703875118885,0.11597320368944614,0.08070833333333333
+pairwise_t_test,Divisive GMM,Novel Divisive Clustering (proximity based,3.7940239479349804,0.0003403124080138666,0.13409015151515152
+pairwise_t_test,DIANA,Density-Based,-4.730484295051534,1.88378737304054e-05,-0.167152
+pairwise_t_test,DIANA,Agglo (ward),-4.659865151641242,2.3943206620550958e-05,-0.166702
+pairwise_t_test,DIANA,Agglo (complete),-3.0173269991400127,0.004000201442300014,-0.090906
+pairwise_t_test,DIANA,Novel Divisive (Order),-4.3912555961137425,5.7215402635187046e-05,-0.103782
+pairwise_t_test,DIANA,Novel Divisive (Prox),-4.3912555961137425,5.7215402635187046e-05,-0.103782
+pairwise_t_test,Density-Based,density-based,0.8603188715731864,0.4001997673879416,0.05607836363636365
+pairwise_t_test,Density-Based,AgglomerativeClustering (ward),0.783045031428449,0.44294342974370093,0.05036927272727272
+pairwise_t_test,Density-Based,AgglomerativeClustering (complete),0.9815903254693352,0.3377159962174013,0.06131472727272727
+pairwise_t_test,Density-Based,AgglomerativeClustering (average),1.3474160727753075,0.19171204206948167,0.0813601818181818
+pairwise_t_test,Density-Based,AgglomerativeClustering (single),1.719622104166114,0.10003496569141766,0.10526927272727271
+pairwise_t_test,Density-Based,Novel divisive clustering algorithm(order based),1.6723236400842194,0.10527832375426441,0.08804199999999998
+pairwise_t_test,Density-Based,Novel Divisive Clustering (proximity based,3.5678597221383113,0.0007279838145141843,0.14142381818181818
+pairwise_t_test,Agglo (ward),density-based,0.8502978772458267,0.4054771403710674,0.05562836363636364
+pairwise_t_test,Agglo (ward),AgglomerativeClustering (ward),0.7731387872330229,0.4485288695530616,0.049919272727272715
+pairwise_t_test,Agglo (ward),AgglomerativeClustering (complete),0.9705123256714369,0.3429221751391885,0.060864727272727265
+pairwise_t_test,Agglo (ward),AgglomerativeClustering (average),1.3342648019699215,0.19571980000607814,0.0809101818181818
+pairwise_t_test,Agglo (ward),AgglomerativeClustering (single),1.705184866047978,0.10253309887282074,0.1048192727272727
+pairwise_t_test,Agglo (ward),Novel divisive clustering algorithm(order based),1.6544865688081332,0.10869896254656587,0.08759199999999998
+pairwise_t_test,Agglo (ward),Novel Divisive Clustering (proximity based,3.5216999929608663,0.0008394038056983972,0.14097381818181817
+pairwise_t_test,Novel Divisive (Order),AgglomerativeClustering (single),0.7577514516255709,0.460571673464335,0.041899272727272716
+pairwise_t_test,Novel Divisive (Order),Novel Divisive Clustering (proximity based,2.6294287098993374,0.011655716114541461,0.07805381818181817
+pairwise_t_test,Novel Divisive (Prox),AgglomerativeClustering (single),0.7577514516255709,0.460571673464335,0.041899272727272716
+pairwise_t_test,Novel Divisive (Prox),Novel Divisive Clustering (proximity based,2.6294287098993374,0.011655716114541461,0.07805381818181817

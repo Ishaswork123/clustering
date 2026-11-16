@@ -1,0 +1,32 @@
+Algorithm,Dataset_Type,ARI
+Agglo-average,other,0.04057
+Agglo-average,real,0.5621
+Agglo-complete,high_dim,0.0006
+Agglo-complete,other,0.0721843137254902
+Agglo-complete,real,0.2700625
+Agglo-single,other,0.01464
+Agglo-single,real,0.5584
+Agglo-ward,high_dim,0.2817
+Agglo-ward,other,0.112956862745098
+Agglo-ward,real,0.4286375
+DIANA,high_dim,-0.00045
+DIANA,other,0.003964
+DIANA,real,-0.0082375
+Density-Based,high_dim,0.31535
+Density-Based,other,0.1148470588235294
+Density-Based,real,0.4031375
+Divisive GMM,high_dim,0.2409
+Divisive GMM,other,0.114478
+Divisive GMM,real,0.43935
+Divisive K-Means,high_dim,0.31535
+Divisive K-Means,other,0.120332
+Divisive K-Means,real,0.4031375
+Divisive Ward,high_dim,0.35365
+Divisive Ward,other,0.106448
+Divisive Ward,real,0.4277875
+Novel Div-Order-Based,high_dim,0.0627
+Novel Div-Order-Based,other,0.0934686274509803
+Novel Div-Order-Based,real,0.162575
+Novel Div-Proximity-Based,high_dim,0.0627
+Novel Div-Proximity-Based,other,0.0587251219512195
+Novel Div-Proximity-Based,real,0.1535

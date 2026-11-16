@@ -1,0 +1,12 @@
+Algorithm,ARI,Silhouette
+Divisive K-Means,0.1645,0.2132
+Divisive GMM,0.162,0.1603
+Divisive Ward,0.1575,0.2181
+Agglomerative (Ward),0.14395,0.2368
+Density-Based,0.1413,0.2141
+Agglomerative (Complete),0.10055,0.397
+Novel Divisive (Order-Based),0.09365,0.16795
+Agglomerative (Average),0.088,0.4748
+Novel Divisive (Proximity-Based),0.06695,0.28495
+Agglomerative (Single),0.0641,0.4282
+DIANA,0.0022,-0.0303
